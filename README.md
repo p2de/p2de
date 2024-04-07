@@ -10,6 +10,4 @@
 
 <br />
 <br />
-<br />
-</details>
 [<img align="left" alt="Instagram" width="26px" src="https://github.com/yunusense/yunusense/blob/main/inst.png" style="padding-right:10px;" />](https://www.instagram.com/yunusensei/)
