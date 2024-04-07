@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love listening to music and playing video games
 
 ### Com Me:
-<img src="https://github.com/yunusense/yunusense/blob/main/inst.png" width="50" height="50"> (https://www.instagram.com/yunusensei/)
+[![website]<img src="https://github.com/yunusense/yunusense/blob/main/inst.png" width="50" height="50"> (https://www.instagram.com/yunusensei/)]
 
 <br />
 <br />
