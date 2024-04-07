@@ -1,5 +1,5 @@
-# Hi! I'm Yunus - aka [yunsensei]👋 
-[<img align="right" alt="er" width="240px" src="https://github.com/yunusense/yunusense/blob/main/er.png" style="padding-right:70px;" />]
+# Hi! I'm Yunus  ( ﾟｰﾟ)ﾉ
+<img align="right" alt="er" width="240px" src="https://github.com/yunusense/yunusense/blob/main/er.png" style="padding-right:70px;" />
 
 - 🌱 still at the beginning of everything ┗( T﹏T )┛
 - 🏫 First year university student
