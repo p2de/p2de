@@ -11,5 +11,5 @@
 <br />
 <br />
 </details>
-[<img align="left" alt="Instagram" width="26px" src="https://github.com/yunusense/yunusense/blob/main/inst.png" style="padding-right:10px;" />] (https://open.spotify.com/user/lofyapzdlplh8xpsjwckc867e?si=803e8862b1ec40a3 <br />
-[<img align="left" alt="Instagram" width="26px" src="https://github.com/yunusense/yunusense/blob/main/inst.png" style="padding-right:10px;" />] (https://steamcommunity.com/profiles/76561199116042561/)
+<img align="left" alt="Spotify" width="26px" src="[https://github.com/yunusense/yunusense/blob/main/inst.png](https://github.com/yunusense/yunusense/blob/main/spoti.png)" style="padding-right:10px;" />] (https://open.spotify.com/user/lofyapzdlplh8xpsjwckc867e?si=803e8862b1ec40a3 <br />
+<img align="left" alt="Steam" width="26px" src="[https://github.com/yunusense/yunusense/blob/main/inst.png](https://github.com/yunusense/yunusense/blob/main/steam.png)" style="padding-right:10px;" />] (https://steamcommunity.com/profiles/76561199116042561/)
