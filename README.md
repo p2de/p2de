@@ -11,6 +11,6 @@
 <br />
 <br />
 </details>
-[instagram]: https://instagram.com/yunusensei
-[spotify]: https://open.spotify.com/user/lofyapzdlplh8xpsjwckc867e?si=803e8862b1ec40a3
+[instagram]: https://instagram.com/yunusensei <br />
+[spotify]: https://open.spotify.com/user/lofyapzdlplh8xpsjwckc867e?si=803e8862b1ec40a3 <br />
 [steam]: [https://steam.com/in/codeSTACKr](https://steamcommunity.com/profiles/76561199116042561/)
