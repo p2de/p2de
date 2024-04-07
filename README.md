@@ -1,4 +1,4 @@
-# Hi! I'm Yunus - aka [yunusensei][instagram] 👋 
+# Hi! I'm Yunus - aka [yunsensei][instagram] 👋 
 
 
 - 🌱 still at the beginning of everything ┗( T﹏T )┛
@@ -6,7 +6,7 @@
 - ⚡ Fun fact: I love listening to music and playing video games
 
 ### Com Me:
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/yunusensei/)
+[![website]<img src="https://github.com/yunusense/yunusense/blob/main/inst.png" width="auto">](https://www.instagram.com/yunusensei/)
 
 <br />
 <br />
